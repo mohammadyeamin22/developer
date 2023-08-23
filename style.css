@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif; 
+}
+/* header start */
+.wrapper{
+    display: flex;
+    margin-bottom: 164px;
+}
+span{
+    color:orange;
+}
+.banner{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 10%;
+
+
+}
+.banner img{
+    width: 70%;
+}
+.banner h1{
+    font-size: 40px; 
+    margin-top: 20px;
+} 
+.banner h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.banner p{
+    margin-bottom: 30px;
+}
+.banner a{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    transition: .3s;
+}
+.banner a:hover{
+    background-color: black;
+}
+/* header end */
+
+/* experience start */
+h1{
+    margin-bottom: 30px;
+}
+.developer{
+    width: 40%;
+    padding: 40px;
+    box-shadow: 10px 10px 40px;
+    
+}
+.c-margin{
+    margin-left: 120px;
+    border-left: 7px solid blue;
+    
+}
+.c-border{
+    width: 40%;
+    margin-left: 5%;
+    padding: 20px;
+    border-left: 7px solid orange;
+    margin-right: 40px;
+    
+} 
+.c-margin h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orange;
+}
+.c-border h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orange;
+    
+}
+/* experience end */
+
+footer{
+    text-align: center;
+}
