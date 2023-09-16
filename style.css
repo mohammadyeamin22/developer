@@ -22,7 +22,7 @@ span{
     width: 70%;
 }
 .banner h1{
-    font-size: 40px; 
+    font-size: 30px; 
     margin-top: 20px;
 } 
 .banner h3{
@@ -46,6 +46,11 @@ span{
     background-color: black;
 }
 /* header end */
+/* dream-big-start */
+.dream-big{
+    display: flex;
+}
+/* dream-big-end */
 
 /* experience start */
 h1{
@@ -66,7 +71,7 @@ h1{
     width: 40%;
     margin-left: 5%;
     padding: 20px;
-    border-left: 7px solid blue;
+    border-left: 7px solid orange;
     margin-right: 40px;
     
 } 
