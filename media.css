@@ -1,0 +1,159 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .wrapper{
+       flex-direction: column-reverse;
+       align-items: center;
+       margin-bottom: 60px;
+    }
+    .banner h1{
+       font-size: 25px;
+       margin-top: 10px;
+    }
+    .banner{
+       width: 100%;
+       margin-left: 0;
+       margin-top: 0;
+    }
+    .banner img{
+       width: 95%;
+    }
+    h1{
+       margin-bottom: 0;
+    }
+    .banner h3{
+       margin-bottom: 15px;
+       margin-top: 15px;
+    }
+    .banner a{
+       padding: 8px 15px;
+    }
+    .dream-big{
+       display: flex;
+       flex-direction: column;
+      
+    }
+   .dream-big a{
+    padding: 7px 10px;
+   }
+   .experience{
+      flex-direction: column;
+      
+      gap: 30px;
+   }
+   .c-margin{
+      margin-left: 0px;
+      width: 74%;
+      padding-top: 14px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      font-size: small;
+   }
+.c-border{
+   margin-left: 0px;
+   margin-right: 0px;
+   width: 86%;
+   font-size: small;
+   
+}   
+.footer{
+   font-size: 13px;
+   margin-top: 20px;
+}
+.start{
+   margin-top: 15px;
+
+ }
+}
+ 
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+ .wrapper{
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-bottom: 80px;
+ }
+ .banner h1{
+    font-size: 25px;
+    margin-top: 10px;
+ }
+ .banner{
+    width: 90%;
+    margin-left: 0;
+    margin-top: 0;
+ }
+ .banner img{
+    width: 95%;
+ }
+ h1{
+    margin-bottom: 0;
+ }
+ .banner h3{
+    margin-bottom: 15px;
+    margin-top: 15px;
+ }
+ .banner a{
+    padding: 8px 15px;
+ }
+ .dream-big{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+ }
+.experience{
+   margin-bottom: 30px;
+   flex-direction: column;
+}
+.c-margin{
+   margin-left: 0px;
+   width: 62%;
+   padding-bottom: 15px;
+   height: 272px;
+}
+.c-border{
+   width: 71%;
+   height: 215px;
+   margin-right: 17px;
+
+}
+.c-margin{
+   margin-top: 15px;
+   margin-bottom: 40px;
+}
+
+   
+
+}
+
+   
+
+ 
+  /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+ .banner h1{
+    font-size: 35px;
+ }
+ h1{
+    margin-bottom: 20px;
+ }
+ 
+ 
+ 
+ 
+   
+ }
+ 
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+   
+ }
+ 
+  /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width:1399.98px){
+   
+ }
+  /* Extra Extra large devices (large desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+  
+     
+ }
