@@ -15,11 +15,10 @@ span{
     width: 50%;
     margin-top: 30px;
     margin-left: 10%;
-
-
 }
 .banner img{
     width: 70%;
+    border-radius: 40px;
 }
 .banner h1{
     font-size: 30px; 
@@ -51,7 +50,6 @@ span{
     display: flex;
 }
 /* dream-big-end */
-
 /* experience start */
 h1{
     margin-bottom: 30px;
@@ -59,21 +57,18 @@ h1{
 .developer{
     width: 40%;
     padding: 40px;
-    box-shadow: 10px 10px 40px;
-    
+    box-shadow: 10px 10px 40px;   
 }
 .c-margin{
     margin-left: 120px;
     border-left: 7px solid blue;
-    
 }
 .c-border{
     width: 40%;
     margin-left: 5%;
     padding: 20px;
     border-left: 7px solid orange;
-    margin-right: 40px;
-    
+    margin-right: 40px;    
 } 
 .c-margin h3{
     margin-top: 10px;
@@ -83,11 +78,9 @@ h1{
 .c-border h3{
     margin-top: 10px;
     margin-bottom: 10px;
-    color: orange;
-    
+    color: orange;   
 }
 /* experience end */
-
 footer{
     text-align: center;
 }
